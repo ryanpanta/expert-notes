@@ -8,8 +8,8 @@
 </h1>
 
 <div align="center">
-  <img src="./readme-files/projeto1.png" alt="Projeto 1" width="45%" style="border-radius: 10px; margin-right: 5px;">
-  <img src="./readme-files/projeto2.png" alt="Projeto 2" width="45%" style="border-radius: 10px;">
+  <img src="./readme-files/projeto1.png" alt="Projeto 1" width="80%" style="border-radius: 10px; margin-right: 5px;">
+  <img src="./readme-files/projeto2.png" alt="Projeto 2" width="80%" style="border-radius: 10px;">
 </div>
 
 ## Sobre
