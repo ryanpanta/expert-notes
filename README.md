@@ -41,7 +41,7 @@ npm run dev
 Feito, acesse http://localhost:5173 para visualizar a aplicação.
 
 ## Licença
-Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/ryanpanta/) para obter detalhes.
+Este projeto está licenciado sob a Licença MIT - consulte o arquivo [LICENSE](https://github.com/ryanpanta/expert-notes/blob/main/LICENSE) para obter detalhes.
 
 
 
